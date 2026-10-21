@@ -2,7 +2,8 @@
 
 **Project:** Stay Smart in the Digital World  
 **Universal module:** AI Can Help Me Learn — Transform Information into Knowledge  
-**Platform:** Google Gemini Notebook (formerly NotebookLM)
+**Platform:** Google Gemini Notebook
+**Official product:** [Gemini Notebook](https://notebook.google/) · [Google product announcement](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 
 ## 📂 Resource Types Supported by Gemini Notebook
 
