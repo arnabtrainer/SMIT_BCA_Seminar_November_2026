@@ -4,7 +4,9 @@ SMIT Seminar for BCA students in the month of November 2026.
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/51af9a7c-f039-4fd2-a667-28efd6f47761" />
 
 
-### Module-1
+### 🔴🟣🔴 Module-1
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/957e076f-f6ab-4772-a5f4-8103cda6bb30" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a113999-cc19-4a53-8ade-b5df904ecc30" />
 
@@ -15,7 +17,9 @@ SMIT Seminar for BCA students in the month of November 2026.
 
 
 
-### Module-2
+### 🔴🟣🔴 Module-2
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f791fea0-e4a0-4b53-8bb4-fde81f5ba633" />
 
 <img width="1006" height="480" alt="image" src="https://github.com/user-attachments/assets/83edcc29-36a2-4287-b4d3-66da26bce50b" />
 
@@ -59,7 +63,15 @@ SMIT Seminar for BCA students in the month of November 2026.
 
 Note: Availability of dedicated Studio outputs and export options may vary by NotebookLM version and subscription plan. Some outcomes, such as trainer guides, assignments, and comparative analyses, are produced through custom prompts in NotebookLM Chat rather than as dedicated Studio tools.
 
-### Module-3
+### 🔴🟣🔴 Module-3
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b12841ad-5444-4a1b-9668-aa9702293191" />
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/96cbde5c-1005-4a36-b072-fa20f7b53dec" />
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0aee2f3c-fb64-4588-b047-0294d4842887" />
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/e1ea25eb-8326-4cb8-a2e2-c1e396af45e7" />
 
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/598d65f3-40ce-4e77-8863-922ba565d3da" />
 
@@ -81,7 +93,9 @@ Note: Availability of dedicated Studio outputs and export options may vary by No
 
 Proposed title: SMIT Guptipara — Learn Today. Create Tomorrow.
 
-### Module-4
+### 🔴🟣🔴 Module-4
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/bdd4789d-79e7-4a11-ab6c-fff39719ab92" />
 
 <img width="808" height="632" alt="image" src="https://github.com/user-attachments/assets/1c62f4ed-44bf-4711-a49d-3a762d0d7fe1" />
 
@@ -96,7 +110,9 @@ Proposed title: SMIT Guptipara — Learn Today. Create Tomorrow.
 <img width="742" height="497" alt="image" src="https://github.com/user-attachments/assets/056a90be-db51-4c89-9356-bbbd74b3217f" />
 
 
-### Module-5
+### 🔴🟣🔴 Module-5
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/fd290080-1609-4784-a901-5ef58d884a7b" />
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/71cd9837-80d3-4330-8c6e-773014c95f1d" />
 
@@ -114,6 +130,7 @@ I suggest ending with something inspirational but realistic:
 >"Artificial Intelligence is not simply about getting answers faster. It is about exploring new possibilities, learning more effectively, expressing our creativity and building things that once seemed difficult.
 
 ---
+🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 🔴🟣🔴 
 
 # 🤖 AI in Action: Learn • Create • Build
 
